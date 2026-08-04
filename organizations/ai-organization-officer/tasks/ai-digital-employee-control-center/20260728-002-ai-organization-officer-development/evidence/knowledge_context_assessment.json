@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "taskId": "20260728-002-ai-organization-officer-development",
+  "rawStatus": "matched",
+  "relevance": "limited",
+  "usablePrinciples": [
+    "培养需要分阶段推进并以实际成果验证",
+    "陪跑需要培养对象与辅导者共同投入",
+    "课程、案例、练习与真实任务应形成连接"
+  ],
+  "excludedContent": [
+    "发售成交话术不是AI组织官岗位专业标准",
+    "客户筛选与销售价值观不能直接转成人才评价标准",
+    "发售业绩案例不能作为本岗位培养有效性的证据"
+  ],
+  "decision": "保留原始命中凭证，仅使用有限培养方法原则；岗位能力、训练和认证标准以已批准岗位资产与组织正式规则为主。",
+  "reviewedAt": "2026-07-28T06:35:00.000Z"
+}

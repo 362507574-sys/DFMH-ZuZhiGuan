@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "requestId": "20260731-011-store-validation-process",
+  "generatedAt": "2026-07-31T09:49:54.008Z",
+  "status": "degraded",
+  "taskSummary": "四驱车项目流程复制前置检索",
+  "capabilityId": "process-replication",
+  "spaces": [
+    {
+      "name": "老雷知识库",
+      "spaceId": "7647794184725335001"
+    },
+    {
+      "name": "老雷课件知识库",
+      "spaceId": "7647469067716152569"
+    },
+    {
+      "name": "新媒体部",
+      "spaceId": "7623626356504530125"
+    },
+    {
+      "name": "产品部门",
+      "spaceId": "7667049734346902504"
+    }
+  ],
+  "queries": [
+    "成都四驱车实体店五组织项目 职责 SOP 检查清单和停止条件"
+  ],
+  "sources": [],
+  "unreadCandidates": [],
+  "degradedReason": "read_failed"
+}

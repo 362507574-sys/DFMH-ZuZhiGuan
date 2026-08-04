@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "requestId": "20260728-001-ai-organization-officer-role",
+  "generatedAt": "2026-07-28T06:01:08.945Z",
+  "status": "no_hit",
+  "taskSummary": "AI组织官主责岗位人才配置试运行",
+  "capabilityId": "ai-organization-officer.talent-allocation",
+  "spaces": [
+    {
+      "name": "老雷知识库",
+      "spaceId": "7647794184725335001"
+    },
+    {
+      "name": "老雷课件知识库",
+      "spaceId": "7647469067716152569"
+    },
+    {
+      "name": "新媒体部",
+      "spaceId": "7623626356504530125"
+    },
+    {
+      "name": "产品部门",
+      "spaceId": "7667049734346902504"
+    }
+  ],
+  "queries": [
+    "人才画像 选拔标准 绩效参考和下游培养及流程复制需求 AI组织官主责岗位人才配置试运行",
+    "人才画像 选拔标准 绩效参考和下游培养及流程复制需求 AI组织官主责岗位人才配置试运行 IP变现 发售"
+  ],
+  "sources": [],
+  "unreadCandidates": [],
+  "degradedReason": ""
+}

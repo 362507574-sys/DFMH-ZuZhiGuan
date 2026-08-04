@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "parentTaskId": "20260728-002-ai-organization-officer-development",
+  "enterpriseId": "ai-digital-employee-control-center",
+  "primaryOrganization": "ai-organization-officer",
+  "capabilityId": "talent-development",
+  "status": "completed",
+  "businessProjectId": null,
+  "projectIsolationMode": "legacy-organization-build",
+  "candidateRef": "organizations/ai-organization-officer/tasks/ai-digital-employee-control-center/20260728-002-ai-organization-officer-development/candidates/talent-development-v1.json",
+  "candidateVersion": 1,
+  "candidateSha256": "cf6cd2ed4e82385f5b18edf8ec18ccfb4d0174efb6af7cb0492d11d0ac7f7b79",
+  "approvalRef": "acceptance/decision-v1.json",
+  "approval": {
+    "decision": "approve",
+    "decidedBy": "帝王40K",
+    "decisionText": "你先把技能创建完全，整个组织完整链路打通，我后面在来调技能  我是这个意思",
+    "decidedAt": "2026-07-29T02:11:26.390Z",
+    "scope": "批准AI组织官人才培养体系V1晋级正式组织资产并用于打通三技能链路；不代表任何真实员工已通过认证，不包含自动转正、晋升、调岗、调薪、奖惩、辞退、对外发布或生产系统写入。"
+  },
+  "upstreamAssetBindings": {
+    "talentAllocation": {
+      "capabilityId": "talent-allocation",
+      "version": 1,
+      "candidateSha256": "32b5e6ab4e192db9727a32b62a29c37ff0a7d92736d6c1070d132eb90df32941",
+      "formalAssetRef": "organizations/ai-organization-officer/enterprises/ai-digital-employee-control-center/assets/talent-allocation/versions/1.json"
+    }
+  },
+  "formalAssetRef": "organizations/ai-organization-officer/enterprises/ai-digital-employee-control-center/assets/talent-development/versions/1.json",
+  "formalAssetSha256": "826a0a8b0d059af17fa1386194b2bb3d1600ca6932461c2e0c462249ee5d5033",
+  "evidenceRefs": [
+    "organizations/ai-organization-officer/enterprises/ai-digital-employee-control-center/assets/talent-allocation/versions/1.json",
+    "evidence/knowledge_context.json",
+    "evidence/knowledge_context_assessment.json",
+    "docs/superpowers/specs/2026-07-28-ai-organization-officer-design.md"
+  ],
+  "risks": [
+    "飞书知识命中内容相关性有限，若直接作为岗位教材会产生专业偏移",
+    "若只完成课程阅读、不完成实战任务，不能证明岗位胜任",
+    "若把数字岗位训练结果用于真实员工，会扩大适用范围",
+    "未经使用者批准不能把认证候选写成正式上岗结论"
+  ],
+  "unresolvedItems": [
+    "尚无真实学员完成八个模块的成绩和反馈",
+    "其他四个业务组织尚未通过真实人才培养协作提供专业课程内容",
+    "当前候选尚未经过帝王内容验收和小范围上岗试运行"
+  ],
+  "completedAt": "2026-07-29T02:11:26.390Z"
+}

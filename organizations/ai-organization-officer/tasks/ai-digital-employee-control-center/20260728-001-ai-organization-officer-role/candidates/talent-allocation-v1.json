@@ -1,0 +1,264 @@
+{
+  "schemaVersion": 1,
+  "taskId": "20260728-001-ai-organization-officer-role",
+  "enterpriseId": "ai-digital-employee-control-center",
+  "version": 1,
+  "diagnosis": {
+    "businessContext": {
+      "organization": "AI数字员工控制中心",
+      "architecture": "一个控制中心、五个业务组织、十五个组织技能、两个公共技能",
+      "objective": "为AI组织官主责数字岗位建立可执行的人才配置标准"
+    },
+    "organizationProblems": [
+      "AI组织官的职责和三项能力已经确认，但主责岗位尚缺一份可直接验收的人才配置包",
+      "根控制中心仍登记为designing，岗位标准需要先以试运行候选验证"
+    ],
+    "nonTalentRootCauses": [
+      "总控路由和公共能力已经落地，本次缺口不是总控技术问题",
+      "尚无真实员工或候选人资料，因此不能进行个人评价或录用判断"
+    ],
+    "evidenceRefs": [
+      "control-center/registries/organizations.json",
+      "docs/superpowers/specs/2026-07-28-ai-organization-officer-design.md",
+      "evidence/knowledge_context.json"
+    ]
+  },
+  "organizationDesign": {
+    "departments": [
+      "AI数字员工控制中心",
+      "AI组织官"
+    ],
+    "reportingLines": [
+      "AI组织官向控制中心回传唯一组织结果包",
+      "AI组织官对人才配置、人才培养和流程复制结果承担主责"
+    ],
+    "decisionRights": [
+      "可在已授权企业和任务范围内形成组织管理候选",
+      "可请求其他组织提供有界专业依据",
+      "不得替使用者作出重大人事决定",
+      "不得修改总控根级路由或直接写根级正式交付"
+    ]
+  },
+  "staffingPlan": {
+    "requiredNow": [
+      {
+        "role": "AI组织官主责数字岗位",
+        "count": 1,
+        "reason": "保持组织任务唯一主责并整合三个核心技能"
+      }
+    ],
+    "developInternally": [
+      {
+        "capability": "人才配置",
+        "status": "pilot",
+        "nextEvidence": "完成真实候选、使用者决策和复盘"
+      }
+    ],
+    "deferred": [
+      {
+        "capability": "人才培养",
+        "reason": "等待人才配置真实前序证据"
+      },
+      {
+        "capability": "流程复制",
+        "reason": "等待真实SOP、考勤工资或知识复制任务"
+      }
+    ]
+  },
+  "jobProfiles": [
+    {
+      "id": "ai-organization-officer-lead",
+      "purpose": "把企业目标转成可执行、可培养、可复制且受权限保护的组织系统",
+      "responsibilities": [
+        "识别企业、任务、人员范围和字段权限，阻止跨企业或越权资料使用",
+        "区分战略、增长、成交、品牌、组织、岗位、资源、流程、管理和个人问题",
+        "产出岗位说明、人才画像、招聘面试、人岗匹配、绩效和组织调整候选",
+        "把批准的岗位标准转成人才培养需求，把真实工作转成流程复制需求",
+        "检查事实、证据、隐私、公平、劳动合规、版本和使用者决策边界",
+        "通过版本化协作契约取得其他组织的专业依据并审核整合",
+        "保留候选、决策、试运行、正式资产和复盘证据"
+      ],
+      "deliverables": [
+        "组织诊断与编制方案",
+        "岗位说明和人才画像",
+        "招聘、面试、试用和人岗匹配评估包",
+        "绩效薪酬和组织调整决策简报",
+        "人才培养与流程复制下游简报",
+        "带哈希和风险说明的组织结果包"
+      ],
+      "qualityStandards": [
+        "每项重要判断能够追溯到企业事实、授权记录、公开来源、推断或未知",
+        "岗位职责具有明确成果和质量标准，不使用空泛表述",
+        "人员评价与岗位相关且包含证据和未知项",
+        "未经使用者决定不执行正式人事动作",
+        "未经批准的候选不进入正式企业资产",
+        "不同企业和敏感字段保持隔离"
+      ],
+      "decisionRights": [
+        "在授权范围内设计和修订候选",
+        "对不完整、歧视、越权或合规风险候选执行硬拦截",
+        "向控制中心发起一层有界协作请求"
+      ],
+      "performanceIndicators": [
+        "候选门禁一次通过率",
+        "岗位标准可执行性",
+        "越权或跨企业泄露事件数",
+        "使用者重大决策边界遵守率",
+        "试运行后返工原因闭环率",
+        "下游培养和流程需求完整率"
+      ]
+    }
+  ],
+  "talentProfiles": [
+    {
+      "jobId": "ai-organization-officer-lead",
+      "requiredCapabilities": [
+        "组织诊断与岗位设计",
+        "人才标准、招聘和人岗匹配设计",
+        "绩效薪酬制度的证据化表达",
+        "企业与员工资料权限治理",
+        "劳动合规风险识别和专业复核边界",
+        "SOP、知识和版本管理",
+        "跨组织结果整合"
+      ],
+      "trainableCapabilities": [
+        "特定企业的业务知识",
+        "特定行业岗位和人才市场知识",
+        "企业内部工具和表单使用"
+      ],
+      "observableEvidence": [
+        "能从真实业务目标形成包含成果、标准和权限的岗位说明",
+        "能拒绝歧视性条件和只有总分的人岗匹配",
+        "能在知识无命中或降级时继续并清楚标注依据不足",
+        "能阻止跨企业读取、状态跳跃和未批准晋级",
+        "能把其他组织的专业内容转成岗位、训练、绩效和流程需求"
+      ],
+      "riskSignals": [
+        "把所有经营问题归因于员工能力",
+        "只凭印象或单次绩效给员工永久定性",
+        "把AI评分当作录用、辞退或调薪决定",
+        "把公开信息冒充企业事实",
+        "绕过权限、知识前置、试运行或使用者决策"
+      ]
+    }
+  ],
+  "recruitmentPackage": {
+    "mode": "digital-role-acceptance",
+    "priority": "high",
+    "resumeCriteria": [
+      "能够提供组织诊断、岗位设计或流程标准化的可核验证据",
+      "能够说明隐私、公平和劳动合规边界"
+    ],
+    "interviewQuestions": [
+      "请用一个案例区分岗位、资源、流程、管理和个人能力问题",
+      "当管理者要求依据一次低绩效直接辞退员工时，你如何处理",
+      "当企业内部资料与公开市场信息冲突时，你如何记录和决策"
+    ],
+    "workSample": "基于匿名企业资料形成岗位说明、人才画像、面试评分和下游训练及SOP需求",
+    "scoringEvidence": [
+      "事实与推断分离",
+      "岗位成果和质量标准",
+      "证据与未知项",
+      "权限和公平边界",
+      "使用者最终决策边界"
+    ],
+    "probationTargets": [
+      "完成一个真实人才配置候选并通过门禁",
+      "完成一次真实反馈修订且不覆盖旧版本",
+      "形成可复用的培养和流程复制下游简报"
+    ]
+  },
+  "personJobMatches": [],
+  "performanceDesign": {
+    "resultIndicators": [
+      "使用者验收的可执行组织成果",
+      "正式资产与批准版本一致"
+    ],
+    "processIndicators": [
+      "知识前置执行率",
+      "企业与字段权限校验率",
+      "候选门禁覆盖率",
+      "风险和未知项披露率"
+    ],
+    "dataSources": [
+      "组织任务状态",
+      "候选与决策哈希",
+      "测试和试运行证据",
+      "使用者反馈记录"
+    ],
+    "reviewCycle": "每个真实任务结束后复盘，成熟期按月检查组织健康",
+    "decisionBoundary": "绩效结果仅供使用者参考，不自动触发人事处理"
+  },
+  "compensationDesign": {
+    "status": "not-applicable-for-digital-role-pilot",
+    "region": "not-applicable",
+    "asOfDate": "2026-07-28",
+    "sourceRefs": [],
+    "note": "本次验证数字岗位能力，不形成或执行人员薪酬建议"
+  },
+  "adjustmentRecommendations": [
+    {
+      "recommendation": "人才配置保持pilot，先完成本候选的使用者决策和一次真实修订复盘",
+      "status": "advisory",
+      "requiresUserDecision": true
+    },
+    {
+      "recommendation": "人才培养和流程复制继续保持designing，分别等待真实任务",
+      "status": "advisory",
+      "requiresUserDecision": false
+    }
+  ],
+  "evidenceIndex": [
+    {
+      "ref": "control-center/registries/organizations.json",
+      "type": "project-authoritative-record",
+      "factClass": "enterprise-fact"
+    },
+    {
+      "ref": "docs/superpowers/specs/2026-07-28-ai-organization-officer-design.md",
+      "type": "approved-design",
+      "factClass": "enterprise-fact"
+    },
+    {
+      "ref": "evidence/knowledge_context.json",
+      "type": "internal-knowledge-preflight",
+      "factClass": "knowledge-result"
+    }
+  ],
+  "unknowns": [
+    "尚无真实员工或候选人资料，不能进行个人层面的人岗匹配",
+    "本次不涉及地区性薪酬或劳动规则，后续真实人员任务必须重新检索",
+    "其他四个组织尚未通过AI组织官发起真实协作调用"
+  ],
+  "risks": [
+    "若把数字岗位试运行误解为真实员工招聘，会扩大本候选适用范围",
+    "若未经使用者决策直接晋级，将违反正式资产门禁",
+    "若人才培养和流程复制提前上线，将形成能力虚报"
+  ],
+  "decisionsRequired": [
+    {
+      "decision": "是否批准该AI组织官主责岗位标准作为第一版真实试运行候选",
+      "owner": "帝王40K",
+      "executed": false
+    }
+  ],
+  "downstreamBrief": {
+    "talentDevelopment": {
+      "status": "designing",
+      "needs": [
+        "建立AI组织官岗位能力等级和实战训练",
+        "使用隔离、歧视拦截、状态恢复和决策边界案例进行上岗认证",
+        "根据真实任务反馈形成复训条件"
+      ]
+    },
+    "processReplication": {
+      "status": "designing",
+      "needs": [
+        "把人才配置任务转成可复用SOP、清单和表单",
+        "建立候选、试运行、批准、正式资产和复审流程",
+        "后续用真实考勤、工资、合同或知识复制任务验证"
+      ]
+    }
+  },
+  "createdAt": "2026-07-28T06:05:00.000Z"
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "parentTaskId": "20260728-001-ai-organization-officer-role",
+  "enterpriseId": "ai-digital-employee-control-center",
+  "primaryOrganization": "ai-organization-officer",
+  "capabilityId": "talent-allocation",
+  "status": "completed",
+  "businessProjectId": null,
+  "projectIsolationMode": "legacy-organization-build",
+  "candidateRef": "organizations/ai-organization-officer/tasks/ai-digital-employee-control-center/20260728-001-ai-organization-officer-role/candidates/talent-allocation-v1.json",
+  "candidateVersion": 1,
+  "candidateSha256": "32b5e6ab4e192db9727a32b62a29c37ff0a7d92736d6c1070d132eb90df32941",
+  "approvalRef": "acceptance/decision-v1.json",
+  "approval": {
+    "decision": "approve",
+    "decidedBy": "帝王40K",
+    "decisionText": "确认",
+    "decidedAt": "2026-07-28T06:18:34.299Z",
+    "scope": "批准AI组织官主责岗位第一版候选晋级企业正式组织资产；不包含自动人事执行、根级路由修改、人才培养或流程复制上线。"
+  },
+  "upstreamAssetBindings": {},
+  "formalAssetRef": "organizations/ai-organization-officer/enterprises/ai-digital-employee-control-center/assets/talent-allocation/versions/1.json",
+  "formalAssetSha256": "cd4f853f55979b92367500d1d56b582c70328c0c177477096299408c30a7f444",
+  "evidenceRefs": [
+    "control-center/registries/organizations.json",
+    "docs/superpowers/specs/2026-07-28-ai-organization-officer-design.md",
+    "evidence/knowledge_context.json"
+  ],
+  "risks": [
+    "若把数字岗位试运行误解为真实员工招聘，会扩大本候选适用范围",
+    "若未经使用者决策直接晋级，将违反正式资产门禁",
+    "若人才培养和流程复制提前上线，将形成能力虚报"
+  ],
+  "unresolvedItems": [
+    "尚无真实员工或候选人资料，不能进行个人层面的人岗匹配",
+    "本次不涉及地区性薪酬或劳动规则，后续真实人员任务必须重新检索",
+    "其他四个组织尚未通过AI组织官发起真实协作调用"
+  ],
+  "completedAt": "2026-07-28T06:18:34.299Z"
+}

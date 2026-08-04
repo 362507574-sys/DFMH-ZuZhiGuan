@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "taskId": "20260729-003-ai-organization-officer-process-replication",
+  "enterpriseId": "ai-digital-employee-control-center",
+  "capabilityId": "process-replication",
+  "candidateVersion": 1,
+  "candidateSha256": "9165c00cb0a417f3ad9a6a512e07df4a9f2ad2fae448c50976f507fc6fd59c1b",
+  "decision": "approve",
+  "decidedBy": "帝王40K",
+  "decisionText": "你先把技能创建完全，整个组织完整链路打通，我后面在来调技能  我是这个意思",
+  "decidedAt": "2026-07-29T02:36:00.000Z",
+  "scope": "批准AI组织官流程复制体系V1晋级正式组织资产并用于打通人才配置、人才培养、流程复制三技能链路；工资、考勤、合同、社保和员工全周期模块当前为完整执行框架，不代表任何真实企业制度已生效，不包含自动人事决定、发薪、签约、申报、对外发布、生产系统写入或根级路由修改。"
+}
