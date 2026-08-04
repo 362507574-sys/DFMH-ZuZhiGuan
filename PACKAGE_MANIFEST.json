@@ -5,17 +5,22 @@
   "displayName": "AI组织官",
   "status": "operational",
   "acceptsFormalTasks": true,
-  "generatedAt": "2026-08-04T03:09:14.433Z",
+  "generatedAt": "2026-08-04T04:34:57.829Z",
   "files": [
     {
       "relativePath": ".dfmh-generated-package",
       "bytes": 25,
-      "sha256": "10f44c58562344d03dc61ea935017a0f19e2c2a2dbf4e9ed8b3493d451fccd10"
+      "sha256": "197195f5468c091d1c66e7b8e29264aefbbc5b8e4a1fb6d78d42154c5f454a9a"
     },
     {
       "relativePath": ".gitignore",
       "bytes": 102,
       "sha256": "42e5ab13aad1238474461ddb8281ec5371596547ab340f141cd0c6f648e2a05e"
+    },
+    {
+      "relativePath": "AGENTS.md",
+      "bytes": 2332,
+      "sha256": "c37e1e750cd96e3bb58c909a8dc1d9ae10eaa1053b624791c1f36321437e4a92"
     },
     {
       "relativePath": "control-center/registries/organization-output-standard.json",
@@ -26,6 +31,16 @@
       "relativePath": "control-center/registries/organizations.json",
       "bytes": 763,
       "sha256": "854b9bc0250add3292be3e81e9dfd7714c485dc258550ad4712373dc39ad81b1"
+    },
+    {
+      "relativePath": "examples/DELIVERABLE_CHECKLIST.md",
+      "bytes": 885,
+      "sha256": "9f6b2d24a8b84ddca398803b16d03c1248ae00150489d4bd0be92e9c7f0d2412"
+    },
+    {
+      "relativePath": "examples/REQUEST.md",
+      "bytes": 1006,
+      "sha256": "d65c93bb5acf54bfe5c957984334cb60a64583944cc9ed97407f62cbd99af122"
     },
     {
       "relativePath": "LICENSE.md",
@@ -303,126 +318,6 @@
       "sha256": "0628f3661f256f09b987978321efb44af10de2ef76a9b91256e315427a62c90c"
     },
     {
-      "relativePath": "organizations/ai-organization-officer/tasks/.idempotency/4f952279cd6a3ae1ebc1c6fcc65ea0e9467c7be8d2a1040ef6a953a8d010f945.json",
-      "bytes": 238,
-      "sha256": "e2f770bec7aca1a21ba1ea8a55189ebd0f96bfb691f199947a97267784871205"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/.idempotency/a4328f6074dfc89487723f0342475a2373ea6ea0733e7981dadbb4b0cf3a092e.json",
-      "bytes": 268,
-      "sha256": "fb48488a402352476c9c3934d0e3dfc725fa0ddf30f2374bbaf2a9a84e5dba9c"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/.idempotency/cf92625039836cfa0352b3b3998cb806deb1dfb4cc9c19334384cf8d95f5653f.json",
-      "bytes": 252,
-      "sha256": "31333a1d552c36a7a672d79cf8e94e5c3281b1131df92dca4f71571383c096c6"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/ai-digital-employee-control-center/20260728-001-ai-organization-officer-role/acceptance/decision-v1.json",
-      "bytes": 555,
-      "sha256": "8085033216981a610215092cc13c7f5668b2441b38d5fb87f1922af467c920ef"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/ai-digital-employee-control-center/20260728-001-ai-organization-officer-role/candidates/talent-allocation-v1.json",
-      "bytes": 10282,
-      "sha256": "32b5e6ab4e192db9727a32b62a29c37ff0a7d92736d6c1070d132eb90df32941"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/ai-digital-employee-control-center/20260728-001-ai-organization-officer-role/decision-brief.md",
-      "bytes": 3938,
-      "sha256": "a2ac390da0d13330e3a060e641405ebc219c2cb1e8bc25be2016538919c2ca3a"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/ai-digital-employee-control-center/20260728-001-ai-organization-officer-role/evidence/knowledge_context.json",
-      "bytes": 994,
-      "sha256": "1c1936f503769c6f3255ff40fd794f26c19415d30a4e3b6bf54b33ae81932ea3"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/ai-digital-employee-control-center/20260728-001-ai-organization-officer-role/return-package.json",
-      "bytes": 2068,
-      "sha256": "2829288ca1c865198fde61e5c0e4e170a28ed352985d7f1ea24f982d11c0059a"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/ai-digital-employee-control-center/20260728-001-ai-organization-officer-role/task.json",
-      "bytes": 1462,
-      "sha256": "be11e8f822b1788e25e55b330f7acfe332da63b89edc1f547da9e69862dde48b"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/ai-digital-employee-control-center/20260728-002-ai-organization-officer-development/acceptance/decision-v1.json",
-      "bytes": 783,
-      "sha256": "ef816df7bcf00a1ce8262e1f03481e1a502ca655fecc1421916fd90ca8c1cb60"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/ai-digital-employee-control-center/20260728-002-ai-organization-officer-development/candidates/talent-development-v1.json",
-      "bytes": 17877,
-      "sha256": "cf6cd2ed4e82385f5b18edf8ec18ccfb4d0174efb6af7cb0492d11d0ac7f7b79"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/ai-digital-employee-control-center/20260728-002-ai-organization-officer-development/decision-brief.md",
-      "bytes": 2635,
-      "sha256": "2623f2e5fc292d65475f33fa409b9dca1323c5e111cc9f1b27a2dddd8a8ab8db"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/ai-digital-employee-control-center/20260728-002-ai-organization-officer-development/evidence/knowledge_context_assessment.json",
-      "bytes": 794,
-      "sha256": "4050d0a64f10e136522724c6834b4aed8a7c8d8d93f7830871bbda4270782e95"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/ai-digital-employee-control-center/20260728-002-ai-organization-officer-development/evidence/knowledge_context.json",
-      "bytes": 12909,
-      "sha256": "f39b0d9e14f73d1c710f8cce6e2f056bb81a485de6c34e7884e3ec44100f6cab"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/ai-digital-employee-control-center/20260728-002-ai-organization-officer-development/return-package.json",
-      "bytes": 2806,
-      "sha256": "12f9c8b4ee73ed6f1db2af559eb4e44d756fa491e4f31fb539fb18fbc53ededf"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/ai-digital-employee-control-center/20260728-002-ai-organization-officer-development/task.json",
-      "bytes": 1532,
-      "sha256": "71545da9a5c18c36134b662067e91e6b2f4152bb65bbdefb2fe629677f6749ea"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/ai-digital-employee-control-center/20260729-003-ai-organization-officer-process-replication/acceptance/decision-v1.json",
-      "bytes": 930,
-      "sha256": "96f8615eff0e34dc2bb07ea635e834a3b711ae5e12b1ea56cf8bf5051569427e"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/ai-digital-employee-control-center/20260729-003-ai-organization-officer-process-replication/candidates/process-replication-v1.json",
-      "bytes": 20768,
-      "sha256": "9165c00cb0a417f3ad9a6a512e07df4a9f2ad2fae448c50976f507fc6fd59c1b"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/ai-digital-employee-control-center/20260729-003-ai-organization-officer-process-replication/evidence/knowledge_context_assessment.json",
-      "bytes": 1006,
-      "sha256": "cefe6415c2fb1d1ed77f87e87166814bc5e4d28f02cfbfa818d98a369f9d5392"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/ai-digital-employee-control-center/20260729-003-ai-organization-officer-process-replication/evidence/knowledge_context.json",
-      "bytes": 12908,
-      "sha256": "96b4f49d5d6170ac939909af532d299dceddfa83358e07916dc22e03e3e80932"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/ai-digital-employee-control-center/20260729-003-ai-organization-officer-process-replication/return-package.json",
-      "bytes": 3803,
-      "sha256": "207173e846329629d98ea2c74fbc195e94a06fd71b088e0f48dc442e4e27bd33"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/ai-digital-employee-control-center/20260729-003-ai-organization-officer-process-replication/task.json",
-      "bytes": 1692,
-      "sha256": "452d02edc93376f5ed1d85b0bb7188610fdc72adf51d15b03ea5b8e4123be22c"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/chengdu-mini4wd-store/20260731-011-store-validation-process/evidence/knowledge_context.json",
-      "bytes": 792,
-      "sha256": "98ce90d4aba4eb9fd184e2030042ef702d0d37630b5cf65122ae2182d02c6834"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tasks/README.md",
-      "bytes": 282,
-      "sha256": "607d73787d93ee6e3d13411ef4af47f5526a80d7e8ecd930c30513cf694c20e1"
-    },
-    {
       "relativePath": "organizations/ai-organization-officer/templates/ENTERPRISE_ORGANIZATION_PROFILE.json",
       "bytes": 736,
       "sha256": "7a0c07b7df3b0776d660941d99f7c1ec53c5da7197318a7ee1550220c0e88108"
@@ -468,166 +363,6 @@
       "sha256": "5a72d2f8067fd3f7ef4821555fd1bdc2ec0daaea5470d9d5ffb6afa6d9eedfa9"
     },
     {
-      "relativePath": "organizations/ai-organization-officer/tests/collaboration_contract.test.mjs",
-      "bytes": 5276,
-      "sha256": "9f7e90dd41453bcfc864b9ee73af799bbc47e770f3c02fbfbde1c24981632c0d"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/enterprise_isolation.test.mjs",
-      "bytes": 3078,
-      "sha256": "0b72d8cb983ed9a00f04fbec2550c13287b9dd865ba94c078df0184f4e03e0d3"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/foundation_contract.test.mjs",
-      "bytes": 2216,
-      "sha256": "b201d357e5ccfb4670ba6dec2570233242f8b0c01dc9cec08ae7da92c900b3ee"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/helpers.mjs",
-      "bytes": 6797,
-      "sha256": "997d2aedbfdb844ce822b4d247f2c9d44b0f856e70cd2f3fb17df243eba55a81"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/knowledge_preflight_adapter.test.mjs",
-      "bytes": 3374,
-      "sha256": "527226c498e77e82638c39ce2a157bd11f20ad75afe5df757ee93f3e85619023"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/organization_asset_promotion.test.mjs",
-      "bytes": 5224,
-      "sha256": "0e2443c48a83c93c49a8b2850bb9664708c1a61659956444c241049dbd12a1dd"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/organization_chain_validator.test.mjs",
-      "bytes": 1783,
-      "sha256": "fafc3c8e5906409ecb46ed48a5fe9113ccbb81c49413da4381dc523c5ac86567"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/organization_config.test.mjs",
-      "bytes": 3822,
-      "sha256": "8352a916d4ab0a54d6c4c6e57de54bbd53cad24331817b51dba0b0cc407f572e"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/organization_debug_engine.test.mjs",
-      "bytes": 2118,
-      "sha256": "833dfa0561087fba44703bddbe7fd358d7f2166a823e7f344e0ec4fd321379d9"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/organization_evidence_quality.test.mjs",
-      "bytes": 1920,
-      "sha256": "7109f50583aa103feffb36ec66bd938dc7faeb5a3544af068237fa707e31b185"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/organization_execution_planner.test.mjs",
-      "bytes": 1343,
-      "sha256": "742ee8f93a1e9fe45066809a0a08486df6d38de18dd46fcb47a9a2af1f7cfcfe"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/organization_execution_store.test.mjs",
-      "bytes": 2722,
-      "sha256": "63fb6c75cd22de65732bfc99055949e1529ae7056bea91a25eae3538d190a739"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/organization_handoff_return.test.mjs",
-      "bytes": 2717,
-      "sha256": "e64b282ad72f7ffa358e925615c7b6e73905077862793f9b57928d81c234cc5d"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/organization_invocation_v2.test.mjs",
-      "bytes": 1751,
-      "sha256": "ae149fc682ea92ed324bc70e8d6f07af57099e8fea6aff04542f73415325a779"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/organization_quality_profile.test.mjs",
-      "bytes": 1153,
-      "sha256": "0efca6972c8c54911b3a1645f75888dc6ca8900e1d302176950b075f6a54de17"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/organization_self_check.test.mjs",
-      "bytes": 3181,
-      "sha256": "34c11addffa761c99efc8c9d2b1abb89d3f98e2b14bfb6ba016ecb52cdc7f43a"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/organization_task_store.test.mjs",
-      "bytes": 5943,
-      "sha256": "159bc76d8e148a058fe08582b106a2f277376fe3a995f1d09c74229376356a7c"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/organization_v2_fixtures.mjs",
-      "bytes": 844,
-      "sha256": "0574c7d7a42a69e14367b4f4165fef0df927e15163f2ea0108393408ead7ffaf"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/organization_v2_full_loop.test.mjs",
-      "bytes": 4136,
-      "sha256": "7ebf553863d3790f1c16e002da36e74c3f921ac77adffed9640b019aa55f948b"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/organization_v2_runtime.test.mjs",
-      "bytes": 2471,
-      "sha256": "39774d359ae08ed7a5b5755f3b5195fdc08fdd99bda4f28fa87e2d74fd243b25"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/organization_v2_workspace.test.mjs",
-      "bytes": 2163,
-      "sha256": "31191fd296ff4be8aaf3b47f84653a4971fc04e787f847e2b0572888ee546414"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/process_replication_contract.test.mjs",
-      "bytes": 4448,
-      "sha256": "5d153ac11cb5038ac0e0ebc768e1c0d2c411373c1d0c8c78cc74b44ee64b00ed"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/process_replication_fixtures.mjs",
-      "bytes": 9227,
-      "sha256": "3d800d8ec4b4b1ed150ee874f840a7b87f3f9c8f06cf9465ecba612f4ad8b559"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/process_replication_gate.test.mjs",
-      "bytes": 2358,
-      "sha256": "0b050d79f383a2b2e8f552f36302a043d92148534637f75717697161361312e6"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/process_replication_skill_contract.test.mjs",
-      "bytes": 2488,
-      "sha256": "b4c8a79c6b9058efaa5d1cd587c09d5a6585ac0e9ff33a3d2aa0ddf617be3806"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/talent_allocation_contract.test.mjs",
-      "bytes": 3073,
-      "sha256": "e3f2604ff9751a8b8de9acc1301b393776e3a4ce15a14908b640ebae5d260923"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/talent_allocation_gate.test.mjs",
-      "bytes": 5413,
-      "sha256": "04c5384e917dd8e378749dfe263db6a360a79f78380f25db42f5d47cdddc1ddb"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/talent_allocation_skill_contract.test.mjs",
-      "bytes": 2431,
-      "sha256": "c4f7459f03b0b94d411ba590760cf7ae8d908e4b317267749b41183c149ae396"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/talent_development_contract.test.mjs",
-      "bytes": 8481,
-      "sha256": "b0a397ded5a172469e6461d4fd3b9e7c3ebbd5067c77fa621a583b40689e6fd2"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/talent_development_fixtures.mjs",
-      "bytes": 4475,
-      "sha256": "c10a72cdb96a79f69ee91a22c87445c59daafa52bb6ac6673379ae23d2a0b07d"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/talent_development_gate.test.mjs",
-      "bytes": 3058,
-      "sha256": "dc1e1e1b53c662429efcaa2bbf188afe029e020e3f462dcb38786e6f84fb03e3"
-    },
-    {
-      "relativePath": "organizations/ai-organization-officer/tests/talent_development_skill_contract.test.mjs",
-      "bytes": 2434,
-      "sha256": "88ccb992f70024aba55576e8352da348faf805d17f9b736395c531efc56e7612"
-    },
-    {
       "relativePath": "organizations/ai-organization-officer/TROUBLESHOOTING.md",
       "bytes": 866,
       "sha256": "a42135cc1bbac3831fad70cfcde16c231a96ea4148d9177ee96c2a1d6b2e8c11"
@@ -659,8 +394,18 @@
     },
     {
       "relativePath": "package.json",
-      "bytes": 286,
-      "sha256": "93132285e3a441da3b8e2db154d9248f31c001d222cfc6048fa28aa031e3907e"
+      "bytes": 316,
+      "sha256": "505f1f2115400dd01dc7378fe449f6800dabd73b589adbfd49cf07b50ad8deb8"
+    },
+    {
+      "relativePath": "PUBLIC_PACKAGE_CONTRACT.json",
+      "bytes": 1383,
+      "sha256": "e17b8319df63ca5981e57dadf4e8cae00601a01c3b51f2fa637a604719fd2b7f"
+    },
+    {
+      "relativePath": "public-simulation.mjs",
+      "bytes": 1907,
+      "sha256": "90db340358da7e3591d35223561211df1416589a804942cf0357160bbecbf426"
     },
     {
       "relativePath": "public-skills/registry.json",
@@ -668,14 +413,14 @@
       "sha256": "d7a731ef0190ae531517d837af1fac4518f903641a24f254a69f886bd03b56ae"
     },
     {
-      "relativePath": "README.md",
-      "bytes": 2395,
-      "sha256": "5531b6188e831da08a75c5076e572355104acd0f631beed659e2b7cc45fef42d"
+      "relativePath": "QUICKSTART.md",
+      "bytes": 1104,
+      "sha256": "02c5cbb31b47bd2fb235cd08d38d6681e207a03619d0efddc3e25aa16a0747c9"
     },
     {
-      "relativePath": "scripts/control-center/organization_quality_contract.mjs",
-      "bytes": 8312,
-      "sha256": "09945af5f78ce97668903a0528ac80bbdd154902c05b4787a72f910403952400"
+      "relativePath": "README.md",
+      "bytes": 2620,
+      "sha256": "200da09489d3fd94ea1a5d365f6a1d3828384941a372ef79f04eef5ce0879cf1"
     },
     {
       "relativePath": "scripts/control-center/project_contract.mjs",
@@ -704,8 +449,8 @@
     },
     {
       "relativePath": "shared/FEISHU_KNOWLEDGE_PREFLIGHT_STANDARD.md",
-      "bytes": 3136,
-      "sha256": "2b08c8c0829acb5ef94265ad859b17ef840f75acd77dff4b89c4bea78b520599"
+      "bytes": 3135,
+      "sha256": "3cae425fc0a34be23c95f01c3ebd427bded67031e93d1cbac7836128cd7c0d04"
     },
     {
       "relativePath": "shared/IMAGE_GENERATION_CHANNEL_STANDARD.md",
@@ -714,8 +459,8 @@
     },
     {
       "relativePath": "shared/PRODUCT_ASSET_FIDELITY_STANDARD.md",
-      "bytes": 2693,
-      "sha256": "9bbdf364e69b457c655c7abca8eb959d8a646b0d9ae2aa6f18e0351f6bb1be0e"
+      "bytes": 2692,
+      "sha256": "9935d8ec802cf5f7d0e73be51cc85b58dbe0892b8c7622fed588181f30033e41"
     },
     {
       "relativePath": "verify.mjs",
