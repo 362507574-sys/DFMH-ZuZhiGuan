@@ -131,3 +131,8 @@ description: Use when an enterprise needs actual process diagnosis, workflow opt
 
 - 2.0.0（2026-07-29）：增加四种内部模式、完整生产链、工资考勤试点、调试恢复、上游反馈和统一回传。
 - 1.0.0（2026-07-29）：基于三技能真实建设链、工资考勤与组织复制候选、无Skill压力测试、异常门禁和正式版本回归晋级。
+## 公开包使用入口
+
+- 单独使用当前组织：先按根目录 [QUICKSTART.md](../../../../QUICKSTART.md) 完成下载、验收和项目打开，再发送以“项目：”开头的任务。
+- 一次安装五个组织：使用 [DFMH-ZongKong](https://github.com/362507574-sys/DFMH-ZongKong)，由总控自动安装五个组织、15个组织技能和2个公共技能；不要手工复制组织目录。
+- 安装成功只代表结构和入口可用，不会改变本技能所在组织在 `README.md` 中登记的成熟度和正式任务许可。

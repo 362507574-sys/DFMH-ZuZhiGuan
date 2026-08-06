@@ -5,12 +5,12 @@
   "displayName": "AI组织官",
   "status": "operational",
   "acceptsFormalTasks": true,
-  "generatedAt": "2026-08-06T01:27:44.516Z",
+  "generatedAt": "2026-08-06T01:58:33.425Z",
   "files": [
     {
       "relativePath": ".dfmh-generated-package",
       "bytes": 25,
-      "sha256": "2a435a6aa31a7dc4dcbca306204488b5e540d1aef333cb58375deea6cde168a2"
+      "sha256": "ee1b937aacd3e8d0f395932ee3c120cf92e2227297a85e08fd30048421201be9"
     },
     {
       "relativePath": ".gitignore",
@@ -289,8 +289,8 @@
     },
     {
       "relativePath": "organizations/ai-organization-officer/skills/process-replication/SKILL.md",
-      "bytes": 13284,
-      "sha256": "f5dcab886c468b27576569d8420372ef5088a7dd291c17bab08207d5f91ca294"
+      "bytes": 13836,
+      "sha256": "de6e43e20eb9e4eec19e7c13388cf4112795db0b44598e58771a65585d80af21"
     },
     {
       "relativePath": "organizations/ai-organization-officer/skills/README.md",
@@ -304,8 +304,8 @@
     },
     {
       "relativePath": "organizations/ai-organization-officer/skills/talent-allocation/SKILL.md",
-      "bytes": 9826,
-      "sha256": "6a9d95083a607c962fc88f3990585762c67b536f256cdeefac4a77a711bc6972"
+      "bytes": 10378,
+      "sha256": "aeb9a58845f5ea74d1d4090c74bc94a5a884cd2e707b0b9a79afa5f0c20d0085"
     },
     {
       "relativePath": "organizations/ai-organization-officer/skills/talent-development/agents/openai.yaml",
@@ -314,8 +314,8 @@
     },
     {
       "relativePath": "organizations/ai-organization-officer/skills/talent-development/SKILL.md",
-      "bytes": 10867,
-      "sha256": "63fb59b78f30f759c75be15d58edc1b221265b479a86bc30a3ba6e56b744031f"
+      "bytes": 11419,
+      "sha256": "be375d5aefaf44d94aaf05b0968b16e2144cc0b545744c4cfcbd24e9c6383158"
     },
     {
       "relativePath": "organizations/ai-organization-officer/templates/ENTERPRISE_ORGANIZATION_PROFILE.json",
@@ -414,13 +414,13 @@
     },
     {
       "relativePath": "QUICKSTART.md",
-      "bytes": 1104,
-      "sha256": "02c5cbb31b47bd2fb235cd08d38d6681e207a03619d0efddc3e25aa16a0747c9"
+      "bytes": 3418,
+      "sha256": "fb226102ae872b87410c3133b15bd9db7d6748140d060e7e70a54a1a69b6878e"
     },
     {
       "relativePath": "README.md",
-      "bytes": 2620,
-      "sha256": "2d8f4e39875b9608eb4cf20717c73bf80fbed97a4893e7422cdc514a66732f3a"
+      "bytes": 3339,
+      "sha256": "42e77184403038c4f558295858427b49afaeee165a51ce70ae644a2887a00124"
     },
     {
       "relativePath": "scripts/control-center/project_contract.mjs",

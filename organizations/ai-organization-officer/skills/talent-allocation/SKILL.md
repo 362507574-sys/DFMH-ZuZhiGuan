@@ -121,3 +121,8 @@ description: Use when an enterprise needs organization diagnosis, staffing, job 
 
 - 2.0.0（2026-07-29）：增加总控调用、自动规划、完整业务闭环、调试恢复、条件式交接、四级质量和统一回传。
 - 1.0.0（2026-07-28）：基于首个真实任务、使用者验收、异常验证和全量回归晋级为正式Skill。
+## 公开包使用入口
+
+- 单独使用当前组织：先按根目录 [QUICKSTART.md](../../../../QUICKSTART.md) 完成下载、验收和项目打开，再发送以“项目：”开头的任务。
+- 一次安装五个组织：使用 [DFMH-ZongKong](https://github.com/362507574-sys/DFMH-ZongKong)，由总控自动安装五个组织、15个组织技能和2个公共技能；不要手工复制组织目录。
+- 安装成功只代表结构和入口可用，不会改变本技能所在组织在 `README.md` 中登记的成熟度和正式任务许可。
