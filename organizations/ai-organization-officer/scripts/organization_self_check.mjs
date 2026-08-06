@@ -82,6 +82,7 @@ const REQUIRED_FILES = [
   'skills/process-replication/agents/openai.yaml',
   'enterprises/ai-digital-employee-control-center/assets/organization-chain/versions/1.json',
   'enterprises/ai-digital-employee-control-center/assets/organization-chain/versions/2.json',
+  'enterprises/ai-digital-employee-control-center/assets/organization-chain/versions/3.json',
   'enterprises/ai-digital-employee-control-center/assets/organization-chain/current.json',
 ];
 
@@ -187,7 +188,7 @@ export async function runOrganizationSelfCheck({ projectRoot } = {}) {
       'assets',
       'organization-chain',
       'versions',
-      '2.json',
+      '3.json',
     );
     const chain = await validateOrganizationChain({
       projectRoot,

@@ -5,12 +5,12 @@
   "displayName": "AI组织官",
   "status": "operational",
   "acceptsFormalTasks": true,
-  "generatedAt": "2026-08-04T04:34:57.829Z",
+  "generatedAt": "2026-08-06T01:27:44.516Z",
   "files": [
     {
       "relativePath": ".dfmh-generated-package",
       "bytes": 25,
-      "sha256": "197195f5468c091d1c66e7b8e29264aefbbc5b8e4a1fb6d78d42154c5f454a9a"
+      "sha256": "2a435a6aa31a7dc4dcbca306204488b5e540d1aef333cb58375deea6cde168a2"
     },
     {
       "relativePath": ".gitignore",
@@ -24,8 +24,8 @@
     },
     {
       "relativePath": "control-center/registries/organization-output-standard.json",
-      "bytes": 1626,
-      "sha256": "8408e739cf6de58f24a148943f2084d7f2bdff2028a8fbb72c2a6e3f836f3e5b"
+      "bytes": 1351,
+      "sha256": "911565666972598f1e8ecb5d749344ff4b113425de4d27d12e93ca01f5b5e445"
     },
     {
       "relativePath": "control-center/registries/organizations.json",
@@ -135,7 +135,7 @@
     {
       "relativePath": "organizations/ai-organization-officer/integration/root-registration-candidate.json",
       "bytes": 1149,
-      "sha256": "cd7986bb94b6441070eb12637edc218ec7a39f554904d13f49545ac8279f198c"
+      "sha256": "75cafaac07de10f6feb27c825a2ab8262f03313da2d273957284d8f8bb7cb55a"
     },
     {
       "relativePath": "organizations/ai-organization-officer/ORGANIZATION_OVERVIEW.md",
@@ -229,8 +229,8 @@
     },
     {
       "relativePath": "organizations/ai-organization-officer/scripts/organization_self_check.mjs",
-      "bytes": 10271,
-      "sha256": "6e98d4a6ccef75884a0a9f49924466ecf994cbf83e58f082d0ed0d1b3a3565cf"
+      "bytes": 10365,
+      "sha256": "1aba5ebde6b9884943080adef4a94aa217a1c1ed505945ccdd27fdc570671793"
     },
     {
       "relativePath": "organizations/ai-organization-officer/scripts/organization_task_store.mjs",
@@ -289,8 +289,8 @@
     },
     {
       "relativePath": "organizations/ai-organization-officer/skills/process-replication/SKILL.md",
-      "bytes": 11788,
-      "sha256": "ea209602c703fb2802c53f5cc5743fbcec383ebb3cd8e9ee8aa1ba64292864cd"
+      "bytes": 13284,
+      "sha256": "f5dcab886c468b27576569d8420372ef5088a7dd291c17bab08207d5f91ca294"
     },
     {
       "relativePath": "organizations/ai-organization-officer/skills/README.md",
@@ -304,8 +304,8 @@
     },
     {
       "relativePath": "organizations/ai-organization-officer/skills/talent-allocation/SKILL.md",
-      "bytes": 8330,
-      "sha256": "f6ce6cac5004986a7e0fdc6815500aab8a6bd2d8d42600b08d15a9016f7ed3f7"
+      "bytes": 9826,
+      "sha256": "6a9d95083a607c962fc88f3990585762c67b536f256cdeefac4a77a711bc6972"
     },
     {
       "relativePath": "organizations/ai-organization-officer/skills/talent-development/agents/openai.yaml",
@@ -314,8 +314,8 @@
     },
     {
       "relativePath": "organizations/ai-organization-officer/skills/talent-development/SKILL.md",
-      "bytes": 9371,
-      "sha256": "0628f3661f256f09b987978321efb44af10de2ef76a9b91256e315427a62c90c"
+      "bytes": 10867,
+      "sha256": "63fb59b78f30f759c75be15d58edc1b221265b479a86bc30a3ba6e56b744031f"
     },
     {
       "relativePath": "organizations/ai-organization-officer/templates/ENTERPRISE_ORGANIZATION_PROFILE.json",
@@ -420,7 +420,7 @@
     {
       "relativePath": "README.md",
       "bytes": 2620,
-      "sha256": "200da09489d3fd94ea1a5d365f6a1d3828384941a372ef79f04eef5ce0879cf1"
+      "sha256": "2d8f4e39875b9608eb4cf20717c73bf80fbed97a4893e7422cdc514a66732f3a"
     },
     {
       "relativePath": "scripts/control-center/project_contract.mjs",
@@ -448,6 +448,11 @@
       "sha256": "1f93982959b4456ec8397dca0faedb7d89157ab788bd0fb656691d1a0dca9032"
     },
     {
+      "relativePath": "shared/CAPITAL_ASSET_PROCUREMENT_STANDARD.md",
+      "bytes": 4607,
+      "sha256": "3a3501e5a3b95fd49725ff95b3b386e6ba001566c3109051feb71c4160ae1483"
+    },
+    {
       "relativePath": "shared/FEISHU_KNOWLEDGE_PREFLIGHT_STANDARD.md",
       "bytes": 3135,
       "sha256": "3cae425fc0a34be23c95f01c3ebd427bded67031e93d1cbac7836128cd7c0d04"
@@ -456,6 +461,11 @@
       "relativePath": "shared/IMAGE_GENERATION_CHANNEL_STANDARD.md",
       "bytes": 4087,
       "sha256": "ea8510fb8c222b89c27c12d15809b8c6513f0e1ff3c52138abe5c4e4ac7fd10d"
+    },
+    {
+      "relativePath": "shared/ORGANIZATION_AI_WORK_OWNERSHIP_STANDARD.md",
+      "bytes": 4306,
+      "sha256": "2f9fce1d1e71d4b753e176f4db3cc44b658a97fbc16eb3caf8dc4370ff2e7e63"
     },
     {
       "relativePath": "shared/PRODUCT_ASSET_FIDELITY_STANDARD.md",

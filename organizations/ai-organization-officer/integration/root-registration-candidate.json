@@ -20,8 +20,8 @@
       "status": "formal"
     }
   ],
-  "chainManifestRef": "organizations/ai-organization-officer/enterprises/ai-digital-employee-control-center/assets/organization-chain/versions/2.json",
-  "chainManifestSha256": "c47f317465ad5dde187b2a09306f5bf3ce2b825ef6d629736197774443be959a",
+  "chainManifestRef": "organizations/ai-organization-officer/enterprises/ai-digital-employee-control-center/assets/organization-chain/versions/3.json",
+  "chainManifestSha256": "f9825a0ff44701d3183e9f973261bc6b5c53fce0b3b3f390c4793a3895e39359",
   "rootControllerRegistration": "registered_operational",
   "formalTaskRouting": "direct",
   "peerOrganizationCalls": "contract_only",
